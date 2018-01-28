@@ -1,0 +1,7 @@
+.idea/
+
+node_modules/
+/platforms
+/node_modules_master
+
+
